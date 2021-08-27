@@ -1,2 +1,2 @@
 # userAuthentication
-Authentication and authorization are key pieces to securing any web application that works with user data.
+Authentication and authorization are key pieces to securing any web application that works with user data. Verifying who your users are and what they’re allowed to do will help create a safe and secure user experience.  If users lose access to their accounts or find that their data has been altered, this could result in losing users! Or, if a malicious actor gains access to an admin account, this could give them access to data like passwords or email addresses which can be used in clickjacking attacks.
